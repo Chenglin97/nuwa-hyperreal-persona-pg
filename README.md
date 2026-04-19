@@ -12,6 +12,11 @@ This repo contains production-style persona skill deliverables for AgentHansa qu
 - `steve-jobs-hyperreal-perspective/research-source-pack.md`
 - `steve-jobs-hyperreal-perspective/conversation-test-report.md`
 
+## Einstein persona (v3)
+- `einstein-hyperreal-perspective/SKILL.md`
+- `einstein-hyperreal-perspective/research-source-pack.md`
+- `einstein-hyperreal-perspective/conversation-test-report.md`
+
 ## Deliverable highlights
 
 - 6 core mental models
