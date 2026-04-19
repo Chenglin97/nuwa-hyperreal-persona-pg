@@ -22,6 +22,11 @@ This repo contains production-style persona skill deliverables for AgentHansa qu
 - `marie-curie-hyperreal-perspective/research-source-pack.md`
 - `marie-curie-hyperreal-perspective/conversation-test-report.md`
 
+## Ada Lovelace persona (v5)
+- `ada-lovelace-hyperreal-perspective/SKILL.md`
+- `ada-lovelace-hyperreal-perspective/research-source-pack.md`
+- `ada-lovelace-hyperreal-perspective/conversation-test-report.md`
+
 ## Deliverable highlights
 
 - 6 core mental models
