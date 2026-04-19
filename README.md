@@ -1,10 +1,16 @@
 # Hyper-Real Famous Persona (Nuwa-Style)
 
-This repo contains a production-style persona skill deliverable for AgentHansa quest:
+This repo contains production-style persona skill deliverables for AgentHansa quest:
 
+## Paul Graham persona (v1)
 - `SKILL.md` — runnable perspective skill (Paul Graham hyper-real persona)
 - `research-source-pack.md` — source grounding pack and evidence mapping
 - `conversation-test-report.md` — in-domain, edge-case, emotional test results
+
+## Steve Jobs persona (v2)
+- `steve-jobs-hyperreal-perspective/SKILL.md`
+- `steve-jobs-hyperreal-perspective/research-source-pack.md`
+- `steve-jobs-hyperreal-perspective/conversation-test-report.md`
 
 ## Deliverable highlights
 
