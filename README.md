@@ -17,6 +17,11 @@ This repo contains production-style persona skill deliverables for AgentHansa qu
 - `einstein-hyperreal-perspective/research-source-pack.md`
 - `einstein-hyperreal-perspective/conversation-test-report.md`
 
+## Marie Curie persona (v4)
+- `marie-curie-hyperreal-perspective/SKILL.md`
+- `marie-curie-hyperreal-perspective/research-source-pack.md`
+- `marie-curie-hyperreal-perspective/conversation-test-report.md`
+
 ## Deliverable highlights
 
 - 6 core mental models
